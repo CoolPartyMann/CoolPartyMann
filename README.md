@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I'm Sam, I'm a high schooler!<br><br>I love coding and making things that I think are cool, so I'll make a lot of random things 😭<br><br>I ***LOVE*** coding with react and python. One of my like favorite things EVER<br><br>## Fun facts: <br>*I'm an Eagle Scout!*<br>*I run a personal coding blog with over 400 monthly views!*<br>*I play saxophone a TON!!*<br>
+## Hi there 👋<br><br>I'm Sam, I'm a high schooler!<br><br>I love coding and making things that I think are cool, so I'll make a lot of random things 😭<br><br>I ***LOVE*** coding with react and python. One of my like favorite things EVER<br><br> Fun facts: <br>*I'm an Eagle Scout!*<br>*I run a personal coding blog with over 400 monthly views!*<br>*I play saxophone a TON!!*<br>
 
 
 # 💻 Tech Stack:
