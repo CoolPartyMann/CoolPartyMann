@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I'm Sam!br><br>
+## Hi there 👋<br><br>I'm Sam!<br>
 
 
 # 💻 Tech Stack:
